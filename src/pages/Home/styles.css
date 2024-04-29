@@ -1,0 +1,38 @@
+div.container-home {
+    width: 100%;
+    margin: 20px 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+div.item {
+    width: 360px;
+    height: 400px;
+    background-color: #fff;
+    display: flex;
+    border-radius: 30px;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+div.item-footer {
+    margin-bottom: 20px;
+}
+
+div.item img {
+    max-height: 200px;
+    align-self: center;
+    margin-top: 30px;
+}
+
+p.text {
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+p.text span {
+    font-weight: bold;
+}

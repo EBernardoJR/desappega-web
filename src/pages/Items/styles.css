@@ -1,0 +1,29 @@
+form.container-items {
+    flex-direction: row;
+    display: flex;
+    margin: 20px 30px;
+    justify-content: center;
+}
+
+form.container-items input {
+    margin-right: 20px;
+}
+
+input[type="file"] {
+    display: none;
+  }
+  
+  .custom-file-upload {
+   font-size: 20px;
+   color: #fff;
+   margin-right: 60px;
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+
+  .custom-file-upload img {
+    margin-left: 10px;
+    fill: #fff
+  }

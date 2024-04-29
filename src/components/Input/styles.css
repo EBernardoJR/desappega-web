@@ -1,0 +1,15 @@
+
+.input input {
+    background: none;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+    border: #fff solid 2px;
+    color: #fff;
+    font-size: 18px;
+}
+
+input::placeholder {
+    color: #fff;
+    opacity: 1; /* Firefox */
+  }

@@ -1,0 +1,14 @@
+button.button-secondary {
+    width: 200px;
+    height: 60px;
+    color: #fff;
+    background-color: #8C52FF;
+    font-size: 18px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    opacity: 40%;
+    transition: 0.5s;
+}
